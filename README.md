@@ -5,10 +5,7 @@ A dynamic and interactive movie search web app built with **React.js**, powered 
 ---
 
 ## 🚀 Live Demo
-
-🔗 [View Live Site](https://your-live-site-link.netlify.app)
-
-> Replace the link with your deployed URL (e.g., Netlify or Vercel)
+NAN
 
 ---
 
