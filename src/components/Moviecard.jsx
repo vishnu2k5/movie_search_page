@@ -1,4 +1,5 @@
 import React from 'react'
+import './Moviecard.css'
 
 const Moviecard = ({ movie:{title,poster_path,original_language,vote_average,release_date} }) => {
   return (
@@ -15,7 +16,7 @@ const Moviecard = ({ movie:{title,poster_path,original_language,vote_average,rel
         const url = `https://www.google.com/search?q=${query1}`;
         window.open(url, '_blank'); // Open in a new tab
       }}
-      />
+       className='img'/>
       <div className="mt">
         <h3>{title}</h3>
         <div className="content">

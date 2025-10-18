@@ -1,0 +1,14 @@
+
+.img {
+  border-radius: 8px;
+  overflow: hidden;
+}
+.img {
+  cursor: pointer; /* shows hand icon on hover */
+  transition: background 0.3s ease;
+}
+
+.img:hover {
+  background-color: #007bff; /* change color on hover */
+  color: white;
+}
