@@ -1,5 +1,5 @@
 import React from 'react'
-import './movieCard.css'
+import './Moviecard.css'
 
 const Moviecard = ({ movie:{title,poster_path,original_language,vote_average,release_date} }) => {
   return (
